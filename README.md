@@ -1,12 +1,7 @@
 # Proyecto-Pendulo
 Modelo de péndulo simple, doble, triple y esférico
 
-Needed packages:
-    curses
-    numpy
-    matplotlib
-    scipy
-
+Needed packages: curses, numpy, matplotlib, scipy
 
 To execute the program, execute main.py from the terminal
 
